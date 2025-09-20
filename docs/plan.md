@@ -9,7 +9,12 @@ Kế hoạch học tập trong 1 tuần:
 
 Ngày bắt đầu: 21/09/2025
 Ngày kết thúc: 27/09/2025
+<<<<<<< Updated upstream
 - Thực hiện ôn tập môn Git mỗi ngày
 - Lập kế hoạch học Python
 - Tạo thói quen commit thường xuyên
 - Chuẩn bị bài thuyết trình cuối tuần
+=======
+- Tham khảo tài liệu bổ sung
+- Ôn tập các bài tập nhóm
+>>>>>>> Stashed changes
