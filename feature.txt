@@ -1,0 +1,6 @@
+Tính năng mới:
+1. Cho phép người dùng đăng nhập
+2. Hỗ trợ lưu trữ dữ liệu
+3. Gửi thông báo khi có cập nhật
+4. Đồng bộ hóa với server
+5. Giao diện thân thiện, dễ sử dụng
