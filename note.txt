@@ -1,5 +1,3 @@
 - Git giúp quản lý phiên bản
 - Git rất hữu ích khi làm việc nhóm
 - Git giúp theo dõi thay đổi lịch sử file
-- Học Git cần kiên nhẫn
-- Git giúp tránh xung đột khi làm việc nhóm
